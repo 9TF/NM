@@ -1,3 +1,0 @@
-**Developed by Sachin, kirti pandey, Neeraj Pandey**
-
-**Recommended PHP Version 7.1.0 or Newer**
